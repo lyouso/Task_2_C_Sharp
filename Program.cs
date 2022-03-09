@@ -2,6 +2,6 @@
 int a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число b");
 int b = Convert.ToInt32(Console.ReadLine());
-if (a > b) Console.WriteLine("Max = " + a);
-else Console.WriteLine("Max = " + b); 
+if (a > b) Console.WriteLine("Число " + a + " больше числа " + b);
+else Console.WriteLine("Число " + b + " больше числа " + a); 
 if (a == b) Console.WriteLine("Вы ввели равные числа");
