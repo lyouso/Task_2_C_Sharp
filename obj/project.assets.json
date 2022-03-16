@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lyous\\OneDrive\\Desktop\\Developer\\C#\\Seminar_1_Homework\\Task 2\\Task 2.csproj",
+      "projectUniqueName": "C:\\Users\\lyous\\OneDrive\\Desktop\\Developer\\C#\\Seminar 1\\Seminar_1_Homework\\Task 2\\Task 2.csproj",
       "projectName": "Task 2",
-      "projectPath": "C:\\Users\\lyous\\OneDrive\\Desktop\\Developer\\C#\\Seminar_1_Homework\\Task 2\\Task 2.csproj",
+      "projectPath": "C:\\Users\\lyous\\OneDrive\\Desktop\\Developer\\C#\\Seminar 1\\Seminar_1_Homework\\Task 2\\Task 2.csproj",
       "packagesPath": "C:\\Users\\lyous\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lyous\\OneDrive\\Desktop\\Developer\\C#\\Seminar_1_Homework\\Task 2\\obj\\",
+      "outputPath": "C:\\Users\\lyous\\OneDrive\\Desktop\\Developer\\C#\\Seminar 1\\Seminar_1_Homework\\Task 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lyous\\AppData\\Roaming\\NuGet\\NuGet.Config"
